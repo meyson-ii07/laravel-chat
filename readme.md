@@ -10,12 +10,14 @@
 
 1. Стягнути репозиторій
 2. Внести дані в .env файл
+```
     BROADCAST_DRIVER=pusher
     
     PUSHER_APP_ID=21213
     PUSHER_APP_KEY=DWADAAW
     PUSHER_APP_SECRET=AWDAAAS
     PUSHER_APP_CLUSTER=mt1
+ ```
 3. Composer update
 4. yarn install 
 5. yarn dev
